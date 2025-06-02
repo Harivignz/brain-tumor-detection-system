@@ -1,16 +1,18 @@
-# brain-tumor-detection-system
-A Deep Learning-based system for brain tumor classification, segmentation, and stage prediction using MRI scans.
-# 🧠 Brain Tumor Detection System
+# 🧠 Brain Tumor Detection, Segmentation & Stage Classification using Deep Learning
 
-A Deep Learning project to classify brain tumors, segment tumor regions from MRI scans, and predict their stage using CNNs and 3D U-Nets.
+This project uses deep learning to perform automatic **brain tumor classification**, **3D segmentation**, and **stage prediction** using **MRI scans**. It's built with TensorFlow, PyTorch, and a custom-trained pipeline.
 
-## 🔍 Features
+---
 
-- ✅ Tumor vs No Tumor Classification using CNN (Keras)
-- 🧠 3D Tumor Segmentation using U-Net (PyTorch)
-- 🎯 Tumor Stage Prediction (Grade I–IV) using custom 3D CNN
-- 📦 Standalone `.exe` desktop application (PyInstaller)
+## 🚀 Features
 
-## 📁 Folder Structure
+- ✅ Detect tumor presence (Yes/No)
+- ✅ Segment tumor region using a 3D U-Net
+- ✅ Predict tumor stage (Grade I–IV)
+- ✅ Final app exportable as `.exe` for Windows
+- ✅ Modular architecture using CNN and PyTorch models
 
+---
+
+## 🗂️ Folder Structure
 
