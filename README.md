@@ -97,7 +97,7 @@ You can auto-generate it using:
 ```bash
 pip freeze > requirements.txt
 
-or
+## or
 
 tensorflow==2.19.0
 torch==2.5.1
